@@ -15,11 +15,11 @@ const jokes = fs.readFileSync('./jokes.txt', 'utf8');
 
 // bot setup
 bot = mineflayer.createBot({
-  host: 'botonlyserver.aternos.me',
+  host: 'kaboom.pw',
   port: 25565,
   username: 'MachineBladeBOT',
   password: 'pASsWoRD',
-  version: "1.20.1"
+  version: "1.19.2"
 });
 // bot setup //
 
